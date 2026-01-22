@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocialPostApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08bd441d3febb8ad899c7a7e3cc67a27f5001ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocialPostApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocialPostApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
